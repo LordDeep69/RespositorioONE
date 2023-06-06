@@ -18,6 +18,8 @@
 
 9. git checkout master.
 
-10. 8. git -b "Nombre de Rama".
+10. git -b "Nombre de Rama".
 
 11. git push. 
+
+12. git commit -am
