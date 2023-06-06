@@ -12,19 +12,12 @@
 
 6. git log  -> Muestra los Commit creados hasta la fecha.
 
-<<<<<<< HEAD
 7. git commit --amend -> Modifica Commits creado luego de dar el git log. 
 
-8. git -b RamaLordDeep
+8. git -b RamaLordDeep.
 
-9. git checkout master
-=======
-7. git commit --amend
+9. git checkout master.
 
-8. git -b RamaLordDeep
+10. 8. git -b "Nombre de Rama".
 
-9. 
-
-
-7. git commit --amend -> Modifica Commits creado luego de dar el git log. 
->>>>>>> RamaLordDeep
+11. git push. 
